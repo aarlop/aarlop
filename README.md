@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarlop</h1>
+<h1 align="center">Hi 👋, I'm Arif Shahariar </h1>
 <h3 align="center">UI Designer & Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarlop&label=Profile%20views&color=0e75b6&style=flat" alt="aarlop" /> </p>
